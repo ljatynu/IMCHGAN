@@ -11,4 +11,4 @@ You should have received a copy of the GNU General Public License along with thi
 
 Jin Li(lijin@ynu.edu.cn) School of Software, Yunnan University, Kunming CHINA, 650000
 
-Citation infor: Jin Li, Jingru Wang, Hao Lv, Zhuoxuan Zhang, Zaixia Wang. IMCHGAN: Inductive Matrix Completion with Heterogeneous Graph Attention Networks for Drug-Target Interactions Prediction. IEEE/ACM Transactions on Computational Biology and Bioinformatics(2021). DOI: 10.1109/TCBB.2021.3088614.
+Citation infor: Jin Li, Jingru Wang, Hao Lv, Zhuoxuan Zhang, Zaixia Wang. IMCHGAN: Inductive Matrix Completion with Heterogeneous Graph Attention Networks for Drug-Target Interactions Prediction. IEEE/ACM Transactions on Computational Biology and Bioinformatics. 2022.3;19(2):655-665. Doi: 10.1109/TCBB.2021.3088614.
